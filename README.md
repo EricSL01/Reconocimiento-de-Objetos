@@ -28,4 +28,6 @@ alumnos viendo como pueden ser manipulados los diferentes perifericos de la comp
 Se decidio el uso del lenguaje de Python por su sencillo manejo y comprension a la hora de sere aprendido, ademas de que tiene la ventaja de usar menos lineas de
 codigo para ejecutar las tareas.
 
-   
+### Argumentación sobre la elección de este lenguaje
+Python ofrece una sintaxis clara y legible que permite desarrollar aplicaciones con menos líneas de código que Java u otros lenguajes, lo que acelera el proceso de desarrollo. Además, Python es versátil y ampliamente utilizado en campos como ciencia de datos, inteligencia artificial y desarrollo web, lo que proporciona acceso a una gran comunidad de apoyo y una amplia variedad de bibliotecas y frameworks listos para usar.
+
