@@ -56,7 +56,9 @@ Para finalizar se puede salir de cada una de las opciones dejando presionada la 
 ## Tema que ayuda a comprender
 Programacion en Pyhton usando OpenCV
 
-##Justificación de cómo ayuda al alumno a comprender el tema
+## Justificación de cómo ayuda al alumno a comprender el tema
+Este programa tiene varios aspectos que pueden ayudar a un alumno a comprender diversos conceptos y habilidades en programación y logica, ademas de sus primeras
+interacciones con la tecnologia y como modificarla. 
 
 
 
