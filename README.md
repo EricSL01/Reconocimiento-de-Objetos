@@ -34,3 +34,20 @@ Python ofrece una sintaxis clara y legible que permite desarrollar aplicaciones 
 ## Ejemplo Basico de como usar el programa
 Este programa una vez ejecutado comenzara por desplegar un menu de opciones con las opciones 1/2/3/4 como se ve en la siguiente imagen:
 ![](https://github.com/EricSL01/Reconocimiento-de-Objetos/blob/f5b425b2eeb90433a5ef980ac72c2153c293fd46/1.jpeg)
+
+Las opciones 1 y 2 generaran las muestras para el reconocimiento de objetos siendo la opcion 1 las muestras positivas y la opcion 2 las muestras negativas.
+Una vez que se elija una de las opciones, el programa se ejecuta y para tomar la muestra se pulsa la tecla "s" y se creara una carpeta en donde se aloja el 
+programa que se ejecuta siendo la carpeta "p" para positivas y "n" para negativas
+
+![](https://github.com/EricSL01/Reconocimiento-de-Objetos/blob/5e422cd1077fd816dd416c960a0362574975220d/2.jpeg)
+
+Se recomienda tomar una muestras de 50/100 positivas y 300/500 negativas
+Una vez tomadas las muestras se ejecuta el programa de entrenamiento cascade el cual generara un archivo xml que tendra dentro el comportamiento del objeto a
+reconocer
+
+![](https://github.com/EricSL01/Reconocimiento-de-Objetos/blob/01805950fdc7daf8dbc74116369536e4baecb0d6/3.jpeg)
+
+Este programa se puede descargar de su pagina oficial: https://amin-ahmadi.com/cascade-trainer-gui/
+
+
+
