@@ -31,3 +31,6 @@ codigo para ejecutar las tareas.
 ### Argumentación sobre la elección de este lenguaje
 Python ofrece una sintaxis clara y legible que permite desarrollar aplicaciones con menos líneas de código que Java u otros lenguajes, lo que acelera el proceso de desarrollo. Además, Python es versátil y ampliamente utilizado en campos como ciencia de datos, inteligencia artificial y desarrollo web, lo que proporciona acceso a una gran comunidad de apoyo y una amplia variedad de bibliotecas y frameworks listos para usar.
 
+## Ejemplo Basico de como usar el programa
+Este programa una vez ejecutado comenzara por desplegar un menu de opciones con las opciones 1/2/3/4 como se ve en la siguiente imagen:
+![](https://github.com/EricSL01/Reconocimiento-de-Objetos/blob/f5b425b2eeb90433a5ef980ac72c2153c293fd46/1.jpeg)
