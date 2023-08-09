@@ -49,5 +49,8 @@ reconocer
 
 Este programa se puede descargar de su pagina oficial: https://amin-ahmadi.com/cascade-trainer-gui/
 
+El programa generado se llama: cascade.xml y se debe guardar en la misma carpeta donde alojamos nuestro programa principal
+Una vez hecho esto podemos ejecutar la opción 3 que es la que se dedicara a reconocer el objeto.
+Para finalizar se puede salir de cada una de las opciones dejando presionada la tecla ESC por 10 segundos o eligiendo la opcion 4 para finalizar todo el programa.
 
 
