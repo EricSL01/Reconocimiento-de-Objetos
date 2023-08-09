@@ -20,4 +20,8 @@ El programa desarrollado tiene el objetivo de tener una ayuda visual y primer ac
 
     * Identificar cuales pueden ser los riesgos del uso de software y explicar los daños que con lleva el hardware.
 
+### Problema que se resuelve 
+Cuando se inicia en el area de la programación y la computación el alumno, desconoce como los distintos lenguajes puede interactuar con cada componente de una computadora. Por lo tanto se ha dado la tarea de que exista un primer acercamiento con el lenguaje de python haciendo un pequeño programa que interactue con los 
+alumnos viendo como pueden ser manipulados los diferentes perifericos de la computadora para darles un uso distinto, en este caso se usaria la camara web.
+
    
